@@ -114,7 +114,7 @@
   };
   const handleDrop = ({detail: dataTransfer}) => {
     const name = dataTransfer.files[0].name;
-    if (name.endsWith('.sb') || name.endsWith('.sb2') || name.endsWith('.sb3')) {
+    if (name.endsWith('.sb') || name.endsWith('.sb2') || name.endsWith('.sb3') || name.endsWith('.bm') || name.endsWith('.snail')) {
       $type = 'file';
       setFiles(dataTransfer.files);
     }
