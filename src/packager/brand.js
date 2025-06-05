@@ -30,8 +30,8 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'MerrCode Packager',
-  WEBSITE: 'https://packager.merrcode.compuinter.com/',
+  APP_NAME: 'Banana-mod Packager',
+  WEBSITE: 'https://banana-mod.github.io/packeger',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2024 Thomas Weber
 
 The Source Code Form of this program is available under the terms of the
@@ -41,11 +41,11 @@ https://www.mozilla.org/en-US/MPL/2.0/.`,
   SOURCE_CODE: 'https://github.com/TurboWarp/packager',
   FEEDBACK_PRIMARY: {
     name: 'Email',
-    link: 'mailto:merrcraft13@gmail.com'
+    link: 'cprn.al@gmail.com'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
-    link: 'https://github.com/MerrCraft/MerrCode-packager/issues'
+    link: 'https://github.com/Banana-mod/packeger/issues'
   },
   DONATE: 'https://github.com/sponsors/GarboMuffin',
   PRIVACY_POLICY: 'https://turbowarp.org/privacy.html',
